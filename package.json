@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Duckiduc/Duckiduc#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "mustache": "^4.0.1"
   }
 }
