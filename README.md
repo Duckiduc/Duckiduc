@@ -12,8 +12,6 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-#CC342D?logo=ruby&style=flat-square">
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-RubyonRails-#CC0000?logo=ruby-on-rails&style=flat-square">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
