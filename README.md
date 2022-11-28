@@ -43,6 +43,4 @@ My portfolio: [ducki.dev](https://ducki.dev)
 
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
-  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" />
-  <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />  
 </p>
