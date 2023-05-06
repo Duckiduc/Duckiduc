@@ -4,11 +4,11 @@
 
 <a href="https://www.linkedin.com/in/duc-thomas-nguyen" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<p>Bienvenue to my README.md<br>I'm a Fullstack Developer from <b>Paris, France</b> <img src="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif" width="20"/>, currently working with an amazing team at <a href="https://www.touch-sell.com/">Touch and Sell</a> <img src="https://www.touch-sell.com/wp-content/uploads/2020/01/logoTS150.jpg" width="13"/>.</p>
+<p>Bienvenue to my README.md<br>I'm a Fullstack Developer from <b>Paris, France</b> <img src="https://cultofthepartyparrot.com/flags/hd/franceparrot.gif" width="20"/>, currently working with an amazing team at <a href="https://www.3ds.com/">Dassault Systèmes</a> <img src="https://companieslogo.com/img/orig/DSY.PA-35ee07a0.png" width="13"/>.</p>
 
 **About me**
 
-- 💼 FullStack Developer at @Touch & Sell
+- 💼 FullStack Developer at @Dassault Systèmes
 - 👨🏻‍💻 FullStack Developer and UX/UI Designer @Sepefrei
 - 🎓 Software engineering student @Efrei
 - 🏍️ Motorcycle and mountain bike enthusiast
