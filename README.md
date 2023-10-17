@@ -15,8 +15,7 @@
 
 My portfolio: [ducki.dev](https://ducki.dev)
 
-| <a href="https://github.com/duckiduc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=duckiduc&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Ducki's github stats" /></a> | <a href="https://github.com/duckiduc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckiduc&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/duckiduc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckiduc&layout=compact&hide_border=true" /></a>
 
 **Recent work repositories**
 
