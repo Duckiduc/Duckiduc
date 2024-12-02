@@ -9,8 +9,8 @@
 **About me**
 
 - 💼 FullStack Developer at @Dassault Systèmes
-- 👨🏻‍💻 FullStack Developer and UX/UI Designer @Sepefrei
-- 🎓 Software engineering student @Efrei
+- 👨🏻‍💻 Ex FullStack Developer and UX/UI Designer @Sepefrei
+- 🎓 Software engineering Master's Degree @Efrei
 - 🏍️ Motorcycle and mountain bike enthusiast
 
 My portfolio: [ducki.dev](https://ducki.dev)
