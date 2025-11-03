@@ -19,8 +19,8 @@ My portfolio: [ducki.dev](https://ducki.dev)
 
 **Recent work repositories**
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duckiduc&repo=slackbot-greeter" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duckiduc&repo=deno-app-todo-backend" /></a>
-| ------------- | ------------- |
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duckiduc&repo=omw-crm" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duckiduc&repo=cesium-gpx-viewer" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
 <br />
 
